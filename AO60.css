@@ -1,0 +1,98 @@
+/* CSS a nivel de sección */
+
+#et-main-area .MK-hero-section {
+    max-width: 1120px !important;
+}
+#et-main-area .MK-hero-section .ma-hero-home-sec .ma-hero-home-left-aligned {
+    padding-left: 0 !important;
+}
+#et-main-area .MK-hero-section .et_pb_row.et_pb_row_0.et_pb_equal_columns.et_pb_gutters1 {
+  padding: 0 !important;
+}
+#et-main-area .MK-hero-section .MK-hero-section__dto {
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0, 89, 45, 1);
+    border-radius: 35px;
+    padding: 10px 5px 10px 30px;
+    position: relative;
+}
+#et-main-area .MK-hero-section .et_pb_column.et_pb_column_3_5.et_pb_column_0.ma-hero-home-left-aligned.mg-hero-section-11-m.et_pb_css_mix_blend_mode_passthrough {
+	width: 58% !important;
+	padding: 20px 320px 20px 20px;
+  background-color: rgba(232, 235, 237, 1) !important;
+  background-image: none;
+  border-radius: 16px;
+  position: relative;
+}
+#et-main-area .MK-hero-section .et_pb_column.et_pb_column_3_5.et_pb_column_0.ma-hero-home-left-aligned.mg-hero-section-11-m.et_pb_css_mix_blend_mode_passthrough:before {
+	background: none !important;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  left: auto !important;
+  width: 270px;
+  height: 93%;
+  content: '';
+  background-image: url(https://preeurasiabk.mapfre.com/mapfrees/wp-content/uploads/MK-hero-section__img.jpg) !important;
+  background-size: cover !important;
+  background-position: calc(50% - -60px) center !important;
+  -webkit-clip-path: none !important;
+  clip-path: none !important;
+  border-radius: 16px;
+}
+#et-main-area .MK-hero-section .et_pb_column.et_pb_column_3_5.et_pb_column_0.ma-hero-home-left-aligned.mg-hero-section-11-m.et_pb_css_mix_blend_mode_passthrough:after {
+	display: none !important;
+}
+#et-main-area .MK-hero-section .MK-hero-section__pretitle {
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(45, 55, 61, 1);
+    padding: 5px 0 5px 35px;
+    position: relative;
+    margin: 0 0 10px 0;
+}
+#et-main-area .MK-hero-section .MK-hero-section__title {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    color: rgba(45, 55, 61, 1);
+    width: 100%;
+    margin: 0 0 20px 0 !important;
+    padding: 0 27px 0 0;
+}
+#et-main-area .MK-hero-section .MK-hero-section__description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 27px 0 0;
+    margin: 0 0 10px 0 !important;
+}
+#et-main-area .MK-hero-section .et_pb_column.et_pb_column_2_5.et_pb_column_1.ma-hero-home-right-aligned.two-modules.et_pb_css_mix_blend_mode_passthrough.et-last-child {
+	width: 41% !important;
+}
+.mg-hero-section-11-m:before, .mg-hero-section-11-s:before {
+  background: none !important;
+}
+.et_pb_module.et_pb_image.et_pb_image_0.MK-hero-section__img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    max-width: 270px;
+    /* border-radius: 16px; */
+    height: 100%;
+    display: none;
+}
+/* .MK-hero-section__dto {
+
+}
+.MK-hero-section__pretitle {
+
+}
+.MK-hero-section__legal {
+
+} */
