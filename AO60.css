@@ -87,6 +87,55 @@
     height: 100%;
     display: none;
 }
+#page-container #et-main-area .MK-hero-section #et-boc #et-main-area #main-content .et_pb_section .et_pb_button_module_wrapper .et_pb_button, #page-container #et-boc #et-main-area #main-content #MK-hero-section__button1 {
+    border-radius: 8px !important;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    border: none;
+    background-color: rgba(172, 4, 4, 1);
+    min-width: 223px !important;
+    height: 53px !important;
+    display: flex;
+    max-width: 223px !important;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#page-container #et-main-area .MK-hero-section #et-boc #et-main-area #main-content .et_pb_section .et_pb_button_module_wrapper .et_pb_button, #page-container #et-boc #et-main-area #main-content #MK-hero-section__button2 {
+    border-radius: 8px !important;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    border: none;
+    background-color: rgba(51, 51, 51, 1);
+    min-width: 223px !important;
+    height: 53px !important;
+    display: flex;
+    max-width: 223px !important;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#page-container #et-main-area .MK-hero-section #et-boc #et-main-area #main-content .et_pb_section .et_pb_button_module_wrapper .et_pb_button, #page-container #et-boc #et-main-area #main-content #MK-hero-section__button2:after {
+	display: none !important; 
+}
+#page-container #et-main-area .MK-hero-section #et-boc #et-main-area #main-content .et_pb_section .et_pb_button_module_wrapper .et_pb_button, #page-container #et-boc #et-main-area #main-content #MK-hero-section__legal {
+    border-radius: 8px !important;
+    font-size: 12px;
+    font-weight: 400;
+    color: #000;
+    border: none;
+    min-width: 223px !important;
+    height: auto !important;
+    display: flex;
+    max-width: 223px !important;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 0 !important;
+    position: relative;
+}
 /* .MK-hero-section__dto {
 
 }
